@@ -409,6 +409,11 @@
     <string name="permdesc_deleteCacheFiles" msgid="3812998599006730196">"Pozwala aplikacji na usuwanie plików z pamięci podręcznej."</string>
     <string name="permlab_getPackageSize" msgid="7472921768357981986">"mierzenie rozmiaru pamięci aplikacji"</string>
     <string name="permdesc_getPackageSize" msgid="3921068154420738296">"Pozwala aplikacji na pobieranie własnego kodu, danych oraz rozmiarów pamięci podręcznej."</string>
+    <string name="permlab_fakePackageSignature">"udawanie podpisu aplikacji"</string>
+    <!-- Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+    <string name="permdesc_fakePackageSignature">"Pozwala aplikacji na udawanie innej aplikacji i jej podpisu."</string>
+
+    <!-- Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
     <string name="permlab_installPackages" msgid="2199128482820306924">"bezpośrednie instalowanie aplikacji"</string>
     <string name="permdesc_installPackages" msgid="5628530972548071284">"Pozwala aplikacji na instalowanie nowych lub zaktualizowanych pakietów Androida. Złośliwe aplikacje mogą to wykorzystać w celu dodania nowych aplikacji o dowolnie wysokich uprawnieniach."</string>
     <string name="permlab_clearAppCache" msgid="7487279391723526815">"usuwanie wszystkich danych aplikacji z pamięci podręcznej"</string>
